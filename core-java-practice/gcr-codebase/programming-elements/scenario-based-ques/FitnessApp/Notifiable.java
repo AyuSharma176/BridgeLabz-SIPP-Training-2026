@@ -1,3 +1,0 @@
-interface Notifiable {
-    void sendAlert();
-}
